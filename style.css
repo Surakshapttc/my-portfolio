@@ -74,6 +74,8 @@
 }
 #WD{
     text-align: right;
-    border: 1 px solid red;
-    background-color: yellow;
+    border: 1px solid red;
+    background-color: pink;
+    width: 100px;
+    
 }
